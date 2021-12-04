@@ -4,7 +4,7 @@
 Publication Link: 
 Sharnil Pandya, Hemant Ghayvat,
 Ambient acoustic event assistive framework for identification, detection, and recognition of unknown acoustic events of a residence,
-Advanced Engineering Informatics,
+Advanced Engineering Informatics, Impact Factor: 5.603, CiteScore: 8.6
 Volume 47,
 2021,
 101238,
