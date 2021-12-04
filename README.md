@@ -2,7 +2,7 @@
 **Ambient acoustic event assistive framework for identification, detection, and recognition of unknown acoustic events of a residence**
 
 <html>
-<img src="">
+<img src="https://raw.githubusercontent.com/sharnilpandya84/AmbientAssistiveFramework/main/Ambient%20Event%20Assistive%20Framework.jpg">
 </html>  
 
 Publication Link: 
